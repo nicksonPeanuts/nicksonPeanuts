@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicksonPeanuts
 - 👀 I’m interested in AI and maths stuff
-- 🌱 I’m currently learning R, databases and numerical analysis
+- 🌱 I’m currently learning machine learning, artificial intelligence and modelling
 - 📫 How to reach me @nicolapinat
 
 <!---
