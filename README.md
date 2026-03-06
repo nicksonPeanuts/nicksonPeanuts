@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @nicksonPeanuts
 - 👀 I’m interested in AI and maths stuff
 - 🌱 I’m currently learning machine learning, artificial intelligence and modelling
-- 📫 How to reach me @nicolapinat
+
+
+
 
 <!---
 nicksonPeanuts/nicksonPeanuts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
